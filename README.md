@@ -5,5 +5,6 @@ para o curso de DSA na USP/Esalq, contendo informações sobre distribuições d
 
 Os exemplos são do livro "Manual de Análise de dados - Estatísta e Modelagem Multivariada com Excel, SPSS e Stata"
 
-GITHUB: https://github.com/lucas0usa
+GITHUB: https://github.com/lucas0usa \\
+
 LINKEDIN: https://www.linkedin.com/in/lucass0usa/
